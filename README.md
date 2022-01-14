@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/)
 
-![Artemio GitHub stats](https://github-readme-stats.vercel.app/api?username=artemiobolinho&show_icons=true&theme=dark)
+![Artemio GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-artemio&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso no meu dia a dia
 

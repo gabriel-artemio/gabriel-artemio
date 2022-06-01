@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **No meu tempo livre, gosto de jogar video game e desenvolver jogos.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte comigo no:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-h-artemio-ferreira-4a788a169/" height="30" width="40" /></a>
 </p>

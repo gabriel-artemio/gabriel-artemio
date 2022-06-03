@@ -5,15 +5,13 @@
 
 - 🌱 Atualmente estou aprendendo **C#, Angular e banco de dados Oracle**
 
-- 👯 Procuro colaborar em **Front End e Mobile**
+- 👯 Procuro colaborar em **Front End, Back End e Mobile**
 
 - 🤝 Procuro ajuda com **C#**
 
-- 💬 Pergunte-me sobre **React, Bootstrap e PHP**
+- 📫 Como conversar comigo **gabs.artemioferreira@gmail.com**
 
-- 📫 Como chegar até mim **gabs.artemioferreira@gmail.com**
-
-- ⚡ Fun fact **No meu tempo livre, gosto de jogar video game e desenvolver jogos.**
+- ⚡ Fun fact **No meu tempo livre, gosto de jogar video game, desenvolver jogos e produzir música.**
 
 <h3 align="left">Se conecte comigo no:</h3>
 <p align="left">

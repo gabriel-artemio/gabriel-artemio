@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na **AR Sistemas**
 
-- 👨🏼‍💻 Atualmente estou cursando **Superior Ciência da Computação** e já possuo **2 cursos técnicos**.
+- 👨🏼‍💻 Atualmente estou cursando o 2° semestre do **Superior em Ciência da Computação** e já possuo **2 cursos técnicos**.
 
 - 🌱 Atualmente estou aprendendo **C#, Angular e banco de dados Oracle**
 

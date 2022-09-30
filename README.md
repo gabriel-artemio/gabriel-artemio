@@ -7,7 +7,7 @@
 
 - 👨 Possuo **técnico em Análise e Desenvolvimento de Sistemas** e **técnico em Informática para a Internet**
 
-- 🌱 Atualmente estou aprendendo **C#, Angular e banco de dados Oracle**
+- 🌱 Atualmente estou aprendendo **C#, Python, Angular e banco de dados Oracle**
 
 - 👯 Procuro colaborar em **Front End, Back End e Mobile**
 

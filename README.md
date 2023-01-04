@@ -15,7 +15,7 @@
 
 - 📫 Como conversar comigo **gabs.artemioferreira@gmail.com**
 
-- ⚡ Fun fact **No meu tempo livre, gosto de jogar video game, produzir música e sou apaixonado por aviação civil.**
+- ⚡ Fun fact **No meu tempo livre, gosto de jogar video game, produzir música e sou apaixonado por aviação.**
 
 <h3 align="left">Se conecte comigo no:</h3>
 <p align="left">

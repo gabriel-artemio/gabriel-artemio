@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na **AR Sistemas**
 
-- 👨🏼‍💻 Atualmente estou cursando o 2° semestre do **Superior em Ciência da Computação** e **sigo estudando**
+- 👨🏼‍💻 Atualmente estou cursando o 3° semestre do **Superior em Ciência da Computação** e **sigo estudando**
 
 - 👨 Possuo **técnico em Análise e Desenvolvimento de Sistemas** e **técnico em Informática para a Internet**
 

@@ -1,21 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Gabriel Henrique</h1>
 <h3 align="center">Sou um estudante e desenvolvedor de São Paulo</h3>
 
-- 🔭 Atualmente estou trabalhando na **AR Sistemas**
+- 🔭 Atualmente estou trabalhando na **AR Sistemas** em São Paulo-SP
 
 - 👨🏼‍💻 Atualmente estou cursando o 3° semestre do **Superior em Ciência da Computação** e **sigo estudando**
 
 - 👨 Possuo **técnico em Análise e Desenvolvimento de Sistemas** e **técnico em Informática para a Internet**
 
-- 🌱 Atualmente estou aprendendo **C#, Python, Angular e banco de dados Oracle**
-
-- 👯 Procuro colaborar em **Front End, Back End e Mobile**
-
-- 🤝 Procuro ajuda com **C#**
-
 - 📫 Como conversar comigo **gabs.artemioferreira@gmail.com**
-
-- ⚡ Fun fact **No meu tempo livre, gosto de jogar video game, produzir música e sou apaixonado por aviação.**
 
 <h3 align="left">Se conecte comigo no:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Gabriel Henrique</h1>
+<h1 align="center">Olá 👋, eu sou o Gabriel Henrique</h1>
 <h3 align="center">Sou um estudante e desenvolvedor de São Paulo</h3>
 
 - 🔭 Atualmente estou trabalhando na **AR Sistemas** em São Paulo-SP

@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Gabriel Henrique</h1>
 <h3 align="center">Sou um estudante e desenvolvedor back end de São Paulo</h3>
 
-- 🔭 Atualmente estou trabalhando na **AR Sistemas** em São Paulo-SP
+- 🔭 Atualmente estou estagiando como Desenvolvedor Back End C# na **AR Sistemas** em São Paulo-SP
 
 - 👨🏼‍💻 Atualmente estou cursando o 3° semestre do **Superior em Ciência da Computação** e **sigo estudando**
 
-- 👨 Possuo **técnico em Análise e Desenvolvimento de Sistemas** e **técnico em Informática para a Internet**
+- 👨 Possuo **Técnico em Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para a Internet**
 
 - 📫 Me mande um email: **gabs.artemioferreira@gmail.com**
 

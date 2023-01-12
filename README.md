@@ -7,7 +7,7 @@
 
 - 👨 Possuo **técnico em Análise e Desenvolvimento de Sistemas** e **técnico em Informática para a Internet**
 
-- 📫 Como conversar comigo **gabs.artemioferreira@gmail.com**
+- 📫 Me mande um email: **gabs.artemioferreira@gmail.com**
 
 <h3 align="left">Se conecte comigo no:</h3>
 <p align="left">

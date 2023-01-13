@@ -13,6 +13,6 @@
 
 - ASP.NET Core
 
-- MySQL
+- MySQL, SQL Server e Oracle
 
-- Git
+- Git e API

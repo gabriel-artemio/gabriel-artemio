@@ -7,12 +7,7 @@
 
 - 👨 Possuo **Técnico em Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para a Internet**
 
-- 📫 Me mande um email: **gabs.artemioferreira@gmail.com**
-
-<h3 align="left">Se conecte comigo no:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-h-artemio-ferreira-4a788a169/" height="30" width="40" /></a>
-</p>
+- 📫 Me mande um email: **gabs.artemioferreira@gmail.com** ou me mande mensagem no Linkedin: **https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/**
 
 <h3 align="left">Trabalhando atualmente com:</h3>
 

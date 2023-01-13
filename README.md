@@ -15,6 +15,7 @@
 </p>
 
 <h3 align="left">Trabalhando atualmente com:</h3>
+
 - ASP.NET Core
 
 - MySQL

@@ -11,7 +11,7 @@
 
 <h3 align="left">Trabalhando atualmente com:</h3>
 
-- ASP.NET Core
+- .NET Core | .NET Framework
 
 - MySQL, SQL Server e Oracle
 

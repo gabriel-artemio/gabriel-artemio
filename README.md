@@ -15,4 +15,4 @@
 
 - MySQL, SQL Server e Oracle
 
-- Git e API
+- Git e webAPI´s

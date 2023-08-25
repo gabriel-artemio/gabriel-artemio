@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como Assistente de Programação na **AR Sistemas** em São Paulo-SP
 
-- 👨🏼‍💻 Atualmente estou cursando o 3° semestre do **Superior em Ciência da Computação** e estudando **Java e MySQL**
+- 👨🏼‍💻 Atualmente estou cursando o 4° semestre do **Superior em Ciência da Computação** e estudando **Java e MySQL**
 
 - 👨 Possuo **Técnico em Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para a Internet**
 

@@ -17,4 +17,4 @@
 
 - MySQL, SQL Server e Oracle
 
-- Git e webAPI´s
+- Git e desenvolvimento de webAPI´s e chatbots

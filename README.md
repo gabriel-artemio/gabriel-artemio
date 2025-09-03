@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como Assistente de Programação na **AR Sistemas** em São Paulo-SP
 
-- 👨🏼‍💻 Atualmente estou cursando o 7° semestre do **Superior em Ciência da Computação** e estudando **Dotnet, Web API e Angular**
+- 👨🏼‍💻 Atualmente estou cursando o 8° semestre do **Superior em Ciência da Computação** e estudando **Dotnet, Web API e Angular e ReactJS**
 
 - 👨 Possuo **Técnico em Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para a Internet**
 

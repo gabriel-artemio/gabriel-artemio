@@ -71,5 +71,4 @@ Aplicação desenvolvida em **C# (Windows Forms)** para simulação de campeonat
 ## 📫 Contato
 
 - 📧 Email: **gabs.artemioferreira@gmail.com**
-- 💼 LinkedIn:  
-  https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/
+- 💼 LinkedIn:  https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/

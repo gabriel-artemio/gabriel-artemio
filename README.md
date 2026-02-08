@@ -40,7 +40,7 @@ Sou estudante do **8º semestre de Ciência da Computação** e sigo em constant
   - Manutenção de sistemas legados
 
 ---
-
+<!--
 ## 🚀 Projetos em Destaque
 
 ### 📌 Sistema de Agendamento de Consultas
@@ -66,7 +66,8 @@ Aplicação desenvolvida em **C# (Windows Forms)** para simulação de campeonat
 
 🔗 [Ver repositório](https://github.com/seuuser/simulador-campeonato)
 
----
+--- 
+-->
 
 ## 📫 Contato
 

@@ -14,12 +14,16 @@ Desenvolvedor Backend .NET | C# | ASP.NET Core | APIs REST | MySQL
 👨‍💻 Sobre mim
 </h3>
 
-Sou desenvolvedor back-end com foco em **.NET**, atuando no desenvolvimento e manutenção de **APIs robustas, escaláveis e bem estruturadas**.  
-Tenho experiência com **.NET Core / .NET Framework**, integração com bancos de dados relacionais e implementação de **autenticação e autorização com JWT**.
+Sou desenvolvedor com foco em **.NET e Angular**, atuando no desenvolvimento de aplicações web, APIs REST e sistemas corporativos.  
+Tenho experiência na criação de **soluções backend robustas, escaláveis e bem estruturadas**, além do desenvolvimento de interfaces modernas e responsivas no frontend.
 
-Atualmente trabalho na **AR Sistemas**, participando ativamente do desenvolvimento de soluções backend, manutenção de sistemas legados e criação de novas funcionalidades, sempre buscando **boas práticas, código limpo e organização arquitetural**.
+Atualmente trabalho na **AR Sistemas**, participando ativamente da manutenção de sistemas legados, implementação de novas funcionalidades e desenvolvimento de aplicações utilizando **C#, .NET, Angular e bancos de dados relacionais**, sempre buscando aplicar **boas práticas, código limpo, organização arquitetural e performance**.
 
-Sou estudante do **8º semestre de Ciência da Computação** e sigo em constante evolução técnica, com interesse em **arquitetura de software, performance, segurança e padrões de projeto**.
+No backend, trabalho com **.NET Core / .NET Framework**, desenvolvimento de APIs REST, autenticação e autorização com JWT, integração de sistemas e modelagem de banco de dados.
+
+No frontend, venho desenvolvendo aplicações com **Angular e TypeScript**, trabalhando com componentização, consumo de APIs, formulários reativos e construção de interfaces SPA modernas.
+
+Sou estudante do **8º semestre de Ciência da Computação** e sigo em constante evolução técnica, com interesse em **arquitetura de software, desenvolvimento full stack, performance, segurança e padrões de projeto**.
 
 ---
 

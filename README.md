@@ -45,37 +45,6 @@ Sou estudante do **8º semestre de Ciência da Computação** e sigo em constant
   - Integração de sistemas
   - Manutenção de sistemas legados
 
----
-
-<h3 align="center">
-🚀 Projetos em Destaque
-</h3>
-
-### 📌 API Folha de Ponto
-API REST desenvolvida em **.NET Core**, utilizando **JWT** e **MySQL**, para o gerenciamento de folhas de pontos.
-
-**Destaques técnicos:**
-- Arquitetura em camadas
-- Autenticação JWT
-- Controle de acesso por roles
-- Registro de pontos(entrada, saída, ida e volta do almoço)
-- Cálculo de horas trabalhadas e horas extras
-
-🔗 [Ver repositório](https://github.com/gabriel-artemio/dotnet.FolhaPonto.Api)
-
----
-
-### 📌 API Fila de Atendimento
-API REST desenvolvida em **.NET Core**, utilizando **JWT** e **MySQL**, para o gerencimaneto e emissão de senhas de atendimento.
-
-**Destaques técnicos:**
-- Arquitetura em camadas
-- Autenticação JWT
-- Controle de acesso por roles
-- Emissão de senhas por tipo de atendimento e prioridade
-
-🔗 [Ver repositório](https://github.com/gabriel-artemio/dotnet.FilasAtendimento)
-
 --- 
 
 ## 📫 Contato

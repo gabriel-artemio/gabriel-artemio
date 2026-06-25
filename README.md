@@ -10,9 +10,9 @@ Desenvolvedor Backend .NET | C# | ASP.NET Core | APIs REST | MySQL
 
 ---
 
-<h3 align="center">
+<!-- <h3 align="center">
 👨‍💻 Sobre mim
-</h3>
+</h3>-->
 
 Sou desenvolvedor com foco em **.NET e Angular**, atuando no desenvolvimento de aplicações web, APIs REST e sistemas corporativos.  
 Tenho experiência na criação de **soluções backend robustas, escaláveis e bem estruturadas**, além do desenvolvimento de interfaces modernas e responsivas no frontend.

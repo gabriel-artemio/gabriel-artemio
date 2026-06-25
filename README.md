@@ -3,10 +3,10 @@
 Desenvolvedor Backend .NET | C# | ASP.NET Core | APIs REST | MySQL
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:gabs.artemioferreira@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/gabriel-h-artemio-ferreira-4a788a169/" target="_blank">💼 LinkedIn</a>
-</p>
+</p> -->
 
 ---
 
